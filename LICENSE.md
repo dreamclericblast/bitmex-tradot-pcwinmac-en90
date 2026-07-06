@@ -1,4 +1,4 @@
-# 
+# Premium bitmex trading bot scripts for Mac OS | Élite bitmex trading bot scripts for PC Windows. Featuring stratégie de retour à la moyenne and pools de liquidité DEX — optimized for maximum performance.
 
 
 
